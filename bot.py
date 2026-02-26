@@ -22,6 +22,7 @@ PHONE_NUMBER_ID = os.getenv("PHONE_NUMBER_ID", "963537020181180")
 FAMILY_MEMBERS = [
     ("Radhika",       "919680145121"),
     ("Rinky",         "19132023810"),
+    ("Shubhi",        "15109449432"),
     ("Kunj Bihari",   "919828168152"),
     ("Anjana",        "919509887714"),
     ("Ayushi",        "918273732506"),
